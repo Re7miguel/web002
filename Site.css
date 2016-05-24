@@ -9,6 +9,10 @@ p{
 	down: 500px;
 	
 }
+body{
+	position: relative;
+	height: 200px;
+}
 div {
 	border-radius: 5px;
 	border: 2px solid DarkSlateGray;
