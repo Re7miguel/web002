@@ -6,7 +6,8 @@ p{
 	color: white;
 	text-align: center; 
 	position: relative;
-	height: 200px;
+	down: 200;
+	 
 }
 div {
 	border-radius: 5px;
