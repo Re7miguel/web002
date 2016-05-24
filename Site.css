@@ -2,7 +2,7 @@
 
 p{
   	font-family: Arial;
-	font-size: 90px;
+	font-size: 50px;
 	
 	
 }
@@ -10,7 +10,7 @@ p{
 
 div {
   border:  1px solid white;
-	background-color: #00FF00;
+	background-color: white;
 	float: right;
 	margin-right: 10px;
 	border-bottom-right-radius: 15px;
