@@ -1,8 +1,14 @@
 
 
-h3{
+h1{
   font-family: Verdana;
 	color: red;
+}
+
+#teste{
+ background-image:"https://secure.static.tumblr.com/e0fb6b6ca010a66895d3cbfc5f3520ef/z1vvukd/smPndpqmq/tumblr_static_tumblr_static_filename_640.png";
+ width:100%;
+ height:992px;
 }
 div {
   border:  1px solid white;
