@@ -5,7 +5,7 @@ div {
 	background-color: black;
 	height: 50px;
 	width: 200px;
-	position: center;
+	margin: auto;
 } 
 #HT {
 margin-top: 250px;
