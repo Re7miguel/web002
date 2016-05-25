@@ -23,5 +23,8 @@ body {
 	margin: auto;
 	text-align: center;
 	width: 100%;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
 	
 }
