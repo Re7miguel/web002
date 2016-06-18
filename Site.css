@@ -43,4 +43,8 @@ p{
 	margin-left: 5em;
 	text-align: justify;
 }
-	 
+img{
+	align="right"
+	margin-right: 5em;
+	border: 2px solid DarkSlateGray;
+}	 
